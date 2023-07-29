@@ -1,5 +1,9 @@
 # DDD (Domain Driven Design)
 
+도메인 주도 설계 핵심
+
+{% embed url="https://www.yes24.com/Product/Goods/48577718" %}
+
 1. Domain
    1. 영역, 집합
    2. 한 비즈니스 내의 유사한 업무의 집합: ex) MPRS: 마케팅, 구매, 연구, 영업
